@@ -1,0 +1,34 @@
+ body {background-color: #fcfbfd;}
+.nav a.nav-link{color: #000000;}
+.nav a:hover {
+    color: #fcfbfd;
+    background-color: #000000;
+  }
+body div#navigation {
+  background-color: #fcfbfd;
+  margin-top: -1.2%;
+  .nav a.nav-link{color: #000000;}
+
+  .nav a.nav-link.active{
+    background-color: #fcfbfd;
+    text-decoration: underline;}
+
+  .nav a:hover{
+    font-weight: bold;
+    background-color: #fcfbfd;
+      
+  }
+}
+body div#navigation:hover {
+  background-color: #fcfbfd;
+}
+
+.nav a.nav-link.px-2.text-body-secondary:hover{
+    background-color: #fcfbfd;
+}
+
+th+th {padding: 0 15px;}
+td+td {padding: 0 15px;}
+
+
+
